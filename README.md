@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Pratap Singh
 =========================================================================================================================================
 
-Full Stack Engineer
+Generalist Full Stack Engineer, building for startups!
 -------------------
 
 Senior Full Stack Engineer | React.js | Node.js | MongoDB | Express.js | Building for startups | Ex-ICPC Onsite Asia Finalist
