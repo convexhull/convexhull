@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash
 =========================================================================================================================================
 
-Generalist Full Stack Engineer, building for startups!
+Senior Full Stack Engineer, building AI products for startups!
 -------------------
 
-Senior Full Stack Engineer | React.js | Node.js | MongoDB | Express.js | Building for startups | Ex-ICPC Onsite Asia Finalist
+Senior Full Stack Engineer | | Now building GenAI and LLM-powered products | Ex-ICPC Onsite Asia Finalist | React.js | Node.js | MongoDB | Express.js 
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [yashpratapsingh.com](http://yashpratapsingh.com)
